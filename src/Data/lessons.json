@@ -1,0 +1,126 @@
+{
+    "lekcije": [
+        [{
+                "title": "VAKF",
+                "subtitle": "Stajanje prilikom učenja"
+            },
+            {
+                "title": "DAMIR",
+                "subtitle": "Izgovaranje zamjenice HU (هُ)"
+            }
+        ],
+        [{
+                "title": "LAFZATULLAH",
+                "subtitle": "Izgovaranje riječi Allah اللّٰه"
+            },
+            {
+                "title": "IDGAM MISLEJN ",
+                "subtitle": "Uklapanje istih harfova"
+            }
+        ],
+        [{
+                "title": "IDGAM MISLEJN MEAL-GUNNEH",
+                "subtitle": "Uklapanje istih harfova sa propuštanjem zraka kroz nos"
+            },
+            {
+                "title": "IDGAM MEAL-GUNNEH ",
+                "subtitle": "Uklapanje sa propuštanjem zraka kroz nos"
+            }
+        ],
+        [{
+                "title": " IDGAM BILA GUNNEH ",
+                "subtitle": "Uklapanje bez propuštanja zraka kroz nos"
+            },
+            {
+                "title": "IKLAB",
+                "subtitle": "Pretvaranje harfa N (ن) u harf M (م)"
+            }
+        ],
+        [{
+                "title": "IZHAR HALLKIJ ",
+                "subtitle": "Čisto izgovaranje harfa N (ن) ili tenvina"
+            },
+
+            {
+                "title": "IZHAR ŠEFEVIJJ ",
+                "subtitle": "Čisto izgovaranje harfa M (م)"
+            }
+        ],
+        [{
+                "title": "IHFA",
+                "subtitle": "Skrivanje harfa N (ن)"
+            },
+
+            {
+
+                "title": "IHFA SEVIJJ",
+                "subtitle": "Skrivanje harfa M (م)"
+
+            }
+        ],
+        [{
+                "title": "KALKALA",
+                "subtitle": "Odskakanje harfova"
+            },
+
+            {
+
+                "title": "HUKMURRA",
+                "subtitle": "Izgovaranje harfa R (ر)"
+
+            }
+        ],
+        [{
+                "title": "IDGAM MUTEDŽANISEJN",
+                "subtitle": "Uklapanje srodnih harfova"
+            },
+
+            {
+
+                "title": "IDGAM MUTEKARIBEJN",
+                "subtitle": "Uklapanje bliskih harfova"
+
+            }
+        ],
+        [{
+                "title": "MEDD TABI'IJJ ",
+                "subtitle": "Obična dužina"
+            },
+
+            {
+
+                "title": "MEDD MUTTESIL",
+                "subtitle": "Spojena dužina"
+
+            }
+        ],
+
+        [{
+
+                "title": "MEDD MUNFESIL",
+                "subtitle": "rastavljena dužina"
+
+            },
+            {
+
+                "title": "MEDD LAZIM",
+                "subtitle": "stalna dužina"
+
+            }
+        ],
+        [{
+
+                "title": "MEDD ARID",
+                "subtitle": "nestalna dužina"
+
+            },
+            {
+
+                "title": "MED LIN",
+                "subtitle": "poluvokalna dužina"
+
+            }
+        ]
+
+    ]
+}

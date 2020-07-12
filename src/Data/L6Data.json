@@ -1,0 +1,161 @@
+{
+    "row1": [{
+            "id": 1,
+            "url": "./assets/audio/l6/1.mp3",
+            "highlight": "نْ نَ‍‍",
+            "word": "مَ‍نْ نَ‍‍شَٓاءُ",
+            "after": " čita se: "
+        },
+        {
+            "id": 2,
+            "url": "./assets/audio/l6/2.mp3",
+            "highlight": "نَّ‍",
+            "word": "مَ‍‍نَّ‍‍شَٓاءُ",
+            "after": " ; "
+        },
+        {
+            "id": 3,
+            "url": "./assets/audio/l6/3.mp3",
+            "highlight": "ةً مِ‍",
+            "word": "نِعْمَ‍‍ةً مِ‍‍نْهُ",
+            "after": " čita se: "
+        },
+        {
+            "id": 4,
+            "url": "./assets/audio/l6/4.mp3",
+            "highlight": "ةَ مِّ",
+            "word": "نِعْمَةَ مِّنْهُ",
+            "after": null
+        }
+    ],
+    "row2": [{
+            "id": 6,
+            "url": "./assets/audio/l6/6.mp3",
+            "highlight": "لٌ مِنْ مَ",
+            "word": "فِي جِيدِهَا حَبْلٌ مِنْ مَسَدٍ",
+            "after": " ؛ "
+        },
+        {
+            "id": 5,
+            "url": "./assets/audio/l6/5.mp3",
+            "highlight": "ئًا نُ",
+            "word": "لَـقَدْ جِئْتَ شَيْـئًا نُكْرًا",
+            "after": null
+        }
+    ],
+    "row3": [{
+            "id": 7,
+            "url": "./assets/audio/l6/7.mp3",
+            "highlight": "فًا مُـ",
+            "word": "كَانَ حَنِيفًا مُـسْلِمًا",
+            "after": null
+        },
+        {
+            "id": 1000,
+            "highlight": "يًّا وَ",
+            "word": "نَصْرَانـِيًّا وَلٰكِنْ",
+            "after": null
+        },
+        {
+            "id": 1001,
+            "highlight": "يًّا وَ",
+            "word": "مَا كَانَ إِبْـرَاهِيمُ يَهُودِيًّا وَلَا",
+            "after": null
+        }
+    ],
+    "vjezba": {
+        "broj8": [{
+                "id": 8,
+                "url": "./assets/audio/l6/8.mp3",
+                "highlight": "رًا يَ",
+                "word": " مِثْقَالَ ذَرَّةٍ خَيْـرًا يَرَهُ",
+                "after": null
+            }, {
+                "id": 81,
+                "highlight": "نْ يَـ",
+                "word": "فَمَنْ يَـعْمَلْ",
+                "after": null
+            }
+
+        ],
+        "broj9": [{
+                "id": 9,
+                "url": "./assets/audio/l6/9.mp3",
+                "highlight": "دًا وَ",
+                "word": "دًا وَمَا نَحْنُ بِمُعَذَّبِينَ",
+                "after": null
+            }, {
+                "id": 91,
+                "highlight": "لًا  وَ",
+                "word": "وَقَالُوا نَحْنُ أَكْثَرُ أَمْـوَالًا  وَأَوْلَا",
+                "after": null
+            }
+
+        ],
+        "broj10": [{
+            "id": 10,
+            "url": "./assets/audio/l6/10.mp3",
+            "highlight": "ءً وَ",
+            "word": " بِنَٓاءً وَأَنْـزَلَ مِنَ السَّمَٓاءِ مَٓاءً",
+            "after": null
+        }, {
+            "id": 101,
+            "highlight": "شًا وَ",
+            "word": "اَلَّذِي جَعَلَ لَكُمُ الْأَرْضَ فِرَاشًا وَالسَّمَٓاءَ",
+            "after": null
+        }],
+        "broj11": [{
+            "id": 11,
+            "url": "./assets/audio/l6/11.mp3",
+            "highlight": "لًا وَ",
+            "word": " اَلَّذِي جَمَعَ مَالًا وَعَدَّدَهُ",
+            "after": null
+        }],
+        "broj12": [{
+            "id": 12,
+            "url": "./assets/audio/l6/12.mp3",
+            "highlight": "دٌ وَ",
+            "word": "عْدٌ وَبَرْقٌ",
+            "after": null
+        }, {
+            "id": 121,
+            "highlight": "تٌ وَ",
+            "word": "فِيهِ ظُلُمَاتٌ وَرَ",
+            "after": null
+        }, {
+            "id": 122,
+            "highlight": "بٍ مِ",
+            "word": " أَوْ كَصَيِّبٍ مِنَ السَّمَٓاءِ",
+            "after": null
+        }],
+        "broj13": [{
+            "id": 13,
+            "url": "./assets/audio/l6/13.mp3",
+            "highlight": "نٌ مِ",
+            "word": "ضْوَانٌ مِنَ اللّٰهِ ",
+            "after": null
+        }, {
+            "id": 131,
+            "highlight": "ةٌ وَ",
+            "word": "ةٌ وَرِ",
+            "after": null
+        }, {
+            "id": 132,
+            "highlight": "جٌ مُ",
+            "word": "وَأَزْوَاجٌ مُطَهَّرَ",
+            "after": null
+        }],
+        "broj14": [{
+            "id": 14,
+            "url": "./assets/audio/l6/14.mp3",
+            "highlight": "ةٌ يَ",
+            "word": " أُمَّةٌ يَدْعُونَ إِلَى الْخَيْرِ",
+            "after": null
+        }, {
+            "id": 141,
+            "highlight": "ـنْ مِ",
+            "word": "وَلْتَكُـنْ مِنْكُمْ",
+            "after": null
+        }]
+    }
+}
