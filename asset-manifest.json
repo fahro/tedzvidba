@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/tedzvidba.github.io/static/css/main.97699a76.chunk.css",
-    "main.js": "/tedzvidba.github.io/static/js/main.fa77d577.chunk.js",
-    "main.js.map": "/tedzvidba.github.io/static/js/main.fa77d577.chunk.js.map",
-    "runtime-main.js": "/tedzvidba.github.io/static/js/runtime-main.5be61f3b.js",
-    "runtime-main.js.map": "/tedzvidba.github.io/static/js/runtime-main.5be61f3b.js.map",
-    "static/css/2.829c9cb5.chunk.css": "/tedzvidba.github.io/static/css/2.829c9cb5.chunk.css",
-    "static/js/2.c61dc036.chunk.js": "/tedzvidba.github.io/static/js/2.c61dc036.chunk.js",
-    "static/js/2.c61dc036.chunk.js.map": "/tedzvidba.github.io/static/js/2.c61dc036.chunk.js.map",
-    "index.html": "/tedzvidba.github.io/index.html",
-    "precache-manifest.b580d10279016b57a6ce044c23fd29bc.js": "/tedzvidba.github.io/precache-manifest.b580d10279016b57a6ce044c23fd29bc.js",
-    "service-worker.js": "/tedzvidba.github.io/service-worker.js",
-    "static/css/2.829c9cb5.chunk.css.map": "/tedzvidba.github.io/static/css/2.829c9cb5.chunk.css.map",
-    "static/css/main.97699a76.chunk.css.map": "/tedzvidba.github.io/static/css/main.97699a76.chunk.css.map",
-    "static/js/2.c61dc036.chunk.js.LICENSE.txt": "/tedzvidba.github.io/static/js/2.c61dc036.chunk.js.LICENSE.txt",
-    "static/media/App.scss": "/tedzvidba.github.io/static/media/KuranKerimFontHamdullah.c5109a1c.ttf"
+    "main.css": "/tedzvidba/static/css/main.f9435472.chunk.css",
+    "main.js": "/tedzvidba/static/js/main.2a195788.chunk.js",
+    "main.js.map": "/tedzvidba/static/js/main.2a195788.chunk.js.map",
+    "runtime-main.js": "/tedzvidba/static/js/runtime-main.f5c03f9d.js",
+    "runtime-main.js.map": "/tedzvidba/static/js/runtime-main.f5c03f9d.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/tedzvidba/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.c61dc036.chunk.js": "/tedzvidba/static/js/2.c61dc036.chunk.js",
+    "static/js/2.c61dc036.chunk.js.map": "/tedzvidba/static/js/2.c61dc036.chunk.js.map",
+    "index.html": "/tedzvidba/index.html",
+    "precache-manifest.5ae6c4340254f37bdb5533b1aa99d40d.js": "/tedzvidba/precache-manifest.5ae6c4340254f37bdb5533b1aa99d40d.js",
+    "service-worker.js": "/tedzvidba/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/tedzvidba/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.f9435472.chunk.css.map": "/tedzvidba/static/css/main.f9435472.chunk.css.map",
+    "static/js/2.c61dc036.chunk.js.LICENSE.txt": "/tedzvidba/static/js/2.c61dc036.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/tedzvidba/static/media/KuranKerimFontHamdullah.c5109a1c.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.5be61f3b.js",
+    "static/js/runtime-main.f5c03f9d.js",
     "static/css/2.829c9cb5.chunk.css",
     "static/js/2.c61dc036.chunk.js",
-    "static/css/main.97699a76.chunk.css",
-    "static/js/main.fa77d577.chunk.js"
+    "static/css/main.f9435472.chunk.css",
+    "static/js/main.2a195788.chunk.js"
   ]
 }
